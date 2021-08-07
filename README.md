@@ -1,2 +1,2 @@
 # generate-sitemap
-Generate sitemap using PHP
+Generate sitemap using PHP CLI
